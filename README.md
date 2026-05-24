@@ -31,12 +31,12 @@ O sistema funciona com base em um fluxo contínuo de interações disparadas por
 Siga o passo a passo abaixo para conseguir rodar e testar o código corretamente:
 
 * **Passo 1:** Baixe e instale o aplicativo **VisualG** (recomendada a versão 3.0 ou superior).
-* **Passo 2:** Faça o download do arquivo `codigo_fonte.alg` deste repositório.
+* **Passo 2:** Faça o download do arquivo `simulador_de_banco.alg` deste repositório.
 * **Passo 3:** Abra o VisualG, clique em **"Arquivo" -> "Abrir"** e selecione o código baixado.
 * **Passo 4:** Para executar o aplicativo, clique no menu **Executar -> Rodar Algoritmo** (ou pressione a tecla **F9** no seu teclado).
 * **Passo 5:** Siga as instruções que aparecerão na tela do console (janela de saída preta).
 
-> **💡 Dica de Visualização:** Para que as telas gráficas do código renderizem perfeitamente alinhadas, lembre-se de **maximizar a janela preta do console** assim que o programa for iniciado.
+> **💡 Dica de Visualização:** Para que as telas gráficas do código renderizem perfeitamente alinhadas e em seu devido espaço, lembre-se de **maximizar a janela preta do console** assim que o programa for iniciado, antes de começar a interação.
 
 
 
